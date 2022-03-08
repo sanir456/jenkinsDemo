@@ -7,4 +7,5 @@ print("Current Time =", current_time)
 
 print("URL updated")
 print("WebHook Added")
+print("Update jenkins setting")
 
